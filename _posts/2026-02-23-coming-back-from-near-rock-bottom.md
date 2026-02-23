@@ -23,7 +23,7 @@ Major life events—grief, job loss, financial distress, or mental health challe
 
 ### Honest Self-Assessment
 
-Take stock of your current situation across key areas. This inventory provides a clear starting point: Objectively assess your finances, health, career, and relationships to pinpoint critical weaknesses and hidden strengths. This comprehensive overview is essential for identifying your most pressing challenges and leveraging existing assets. It provides the clarity
+Take stock of your current situation across key areas. This inventory provides a clear starting point: Objectively assess your finances, health, career, and relationships to pinpoint critical weaknesses and hidden strengths. This comprehensive overview is essential for identifying your most pressing challenges and leveraging existing assets. It provides the clarity needed to prioritize your next steps and begin formulating a strategic, actionable recovery plan.
 
 *   Mental and Emotional Health: How are you feeling day-to-day? Are you experiencing symptoms of depression, anxiety, or grief that require professional attention?
 *   Physical Health: Are you maintaining basic self-care? How is your sleep, nutrition, and physical activity?
