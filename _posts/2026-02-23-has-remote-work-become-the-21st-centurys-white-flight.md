@@ -72,7 +72,7 @@ Cities that once thrived on dense office populations are experiencing significan
 
 ### Impact on Rural and Suburban Areas
 
-Conversely, areas experiencing an influx of remote workers face their own set of opportunities and challenges: While these communities often benefit from economic revitalization and increased tax bases, they simultaneously grapple with escalating housing costs
+Conversely, areas experiencing an influx of remote workers face their own set of opportunities and challenges: While these communities often benefit from economic revitalization and increased tax bases, they simultaneously grapple with escalating housing costs and strain on local infrastructure. Balancing these economic boons with the need for affordable housing and robust public services is crucial for sustainable community development.
 
 *   Increased Housing Demand and Affordability Crisis: The most immediate impact is often a surge in demand for housing, driving up prices and rents. While beneficial for existing homeowners, this can price out long-term residents, essential service workers, and younger generations, exacerbating local inequalities and altering community demographics.
 *   Strain on Local Infrastructure: Many smaller towns and suburban areas are not equipped to handle a sudden population increase. This strains existing infrastructure, including:
