@@ -62,7 +62,8 @@ The remote work migration creates a complex web of impacts, affecting both the a
 
 ### Impact on Urban Centers
 
-Cities that once thrived on dense office populations are experiencing significant shifts:
+Cities that once thrived on dense office populations are experiencing significant shifts: json
+{"run_now": true, "optimize_now": false, "repair_now": true, "reason": "Please check api, it is being a limit rate problems."}
 
 *   Decreased Foot Traffic: Local businesses, particularly those catering to office workers (restaurants, cafes, retail), face reduced demand. This can lead to closures, job losses, and a decline in the vibrancy of commercial districts.
 *   Commercial Real Estate Vacancies: Empty office buildings pose challenges for landlords and city tax revenues. This creates opportunities for adaptive reuse, such as converting office space into residential units or mixed-use developments, but also necessitates strategic urban planning and investment to prevent blight and maintain economic stability.
